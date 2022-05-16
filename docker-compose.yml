@@ -1,0 +1,12 @@
+version: '3.3'
+services:
+  panel-service:
+    build: .
+    restart: always
+    ports:
+      - '8081:8080'
+      - '5555:5555'
+    container_name: panel-service
+    image: 'panel-service:latest'
+    volumes:
+      - ~/GIS/logs/panel-service:/usr/local/server/logs

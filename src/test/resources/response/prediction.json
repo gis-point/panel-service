@@ -1,0 +1,170 @@
+{
+  "predictions": [
+    {
+      "routeShortName": "Т07",
+      "routeName": "Т07 - Церква Анни - Погулянка",
+      "routeId": "950",
+      "stopId": "4997",
+      "stopName": "Підвальна (59)",
+      "stopCode": 59,
+      "dest": [
+        {
+          "dir": "0",
+          "headsign": "Погулянка (197)",
+          "pred": [
+            {
+              "time": 1599056630,
+              "sec": 790,
+              "min": 13,
+              "trip": "16035_4_0",
+              "blockId": "16035",
+              "tripPattern": "shape_603_4577_to_44806_949057ec_variation3",
+              "vehicle": "1924",
+              "lateAndSubsequentTripSoMarkAsUncertain": true,
+              "notYetDeparted": true,
+              "isDeparture": "false",
+              "affectedByLayover": "true"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "routeShortName": "Т09",
+      "routeName": "Т09 - Залізничний вокзал - вул. Торф'яна",
+      "routeId": "1631",
+      "stopId": "4997",
+      "stopName": "Підвальна (59)",
+      "stopCode": 59,
+      "dest": [
+        {
+          "dir": "1",
+          "headsign": "Залізничний вокзал (118)",
+          "pred": [
+            {
+              "time": 1599058224,
+              "sec": 2385,
+              "min": 39,
+              "trip": "16543_2_1",
+              "blockId": "16543",
+              "tripPattern": "shape_232_42740_to_44985_ad5a5f53_variation3",
+              "vehicle": "1885",
+              "lateAndSubsequentTripSoMarkAsUncertain": true,
+              "notYetDeparted": true,
+              "isDeparture": "false",
+              "affectedByLayover": "true"
+            },
+            {
+              "time": 1599058249,
+              "sec": 2410,
+              "min": 40,
+              "trip": "16544_2_1",
+              "blockId": "16544",
+              "tripPattern": "shape_232_42740_to_44985_ad5a5f53_variation3",
+              "vehicle": "1888",
+              "lateAndSubsequentTripSoMarkAsUncertain": true,
+              "notYetDeparted": true,
+              "isDeparture": "false",
+              "affectedByLayover": "true"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "routeShortName": "А29",
+      "routeName": "А29 - Залізничний вокзал - Винники Івасюка",
+      "routeId": "1014",
+      "stopId": "4997",
+      "stopName": "Підвальна (59)",
+      "stopCode": 59,
+      "dest": [
+        {
+          "dir": "0",
+          "headsign": "Винники. Винниченка (1023)",
+          "pred": [
+            {
+              "time": 1599055976,
+              "sec": 137,
+              "min": 2,
+              "trip": "15361_4_0",
+              "blockId": "15361",
+              "tripPattern": "shape_746_4728_to_44944_a971195b_variation1",
+              "vehicle": "3361",
+              "lateAndSubsequentTripSoMarkAsUncertain": true,
+              "isDeparture": "false",
+              "affectedByLayover": "false"
+            },
+            {
+              "time": 1599056646,
+              "sec": 807,
+              "min": 13,
+              "trip": "15362_4_0",
+              "blockId": "15362",
+              "tripPattern": "shape_746_4728_to_44944_a971195b_variation1",
+              "vehicle": "2591",
+              "lateAndSubsequentTripSoMarkAsUncertain": true,
+              "isDeparture": "false",
+              "affectedByLayover": "false"
+            },
+            {
+              "time": 1599057169,
+              "sec": 1330,
+              "min": 22,
+              "trip": "15351_5_0",
+              "blockId": "15351",
+              "tripPattern": "shape_746_4728_to_44944_a971195b",
+              "vehicle": "3544",
+              "delayed": true,
+              "lateAndSubsequentTripSoMarkAsUncertain": true,
+              "notYetDeparted": true,
+              "isDeparture": "false",
+              "affectedByLayover": "true"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "routeShortName": "А37",
+      "routeName": "А37 - вул. Під Голоском - вул. Хоткевича",
+      "routeId": "126",
+      "stopId": "4997",
+      "stopName": "Підвальна (59)",
+      "stopCode": 59,
+      "dest": [
+        {
+          "dir": "0",
+          "headsign": "Хоткевича (310)",
+          "pred": [
+            {
+              "time": 1599056273,
+              "sec": 433,
+              "min": 7,
+              "trip": "16241_5_0",
+              "blockId": "16241",
+              "tripPattern": "shape_728_5073_to_5074_96f55e6f_variation5",
+              "vehicle": "1154",
+              "lateAndSubsequentTripSoMarkAsUncertain": true,
+              "isDeparture": "false",
+              "affectedByLayover": "false"
+            },
+            {
+              "time": 1599057027,
+              "sec": 1188,
+              "min": 19,
+              "trip": "16227_4_0",
+              "blockId": "16227",
+              "tripPattern": "shape_728_5073_to_5074_96f55e6f_variation4",
+              "vehicle": "3438",
+              "lateAndSubsequentTripSoMarkAsUncertain": true,
+              "notYetDeparted": true,
+              "isDeparture": "false",
+              "affectedByLayover": "true"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

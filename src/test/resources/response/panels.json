@@ -1,0 +1,91 @@
+[
+  {
+    "_id": 1,
+    "stopName": "Угорська (797)",
+    "number": 44251,
+    "phoneNumber": "+380674327640",
+    "routes": [
+      {
+        "routeName": "Т08",
+        "gtfs": 903
+      },
+      {
+        "routeName": "Т04",
+        "gtfs": 902
+      }
+    ]
+  },
+  {
+    "_id": 2,
+    "stopName": "Ш. Руставелі (291)",
+    "number": 44976,
+    "phoneNumber": "+380674327649",
+    "routes": [
+      {
+        "gtfs": 94,
+        "routeName": "А03"
+      },
+      {
+        "gtfs": 118,
+        "routeName": "А26"
+      },
+      {
+        "gtfs": 130,
+        "routeName": "А44"
+      },
+      {
+        "gtfs": 1022,
+        "routeName": "А53"
+      },
+      {
+        "gtfs": 977,
+        "routeName": "Тр24"
+      },
+      {
+        "gtfs": 1594,
+        "routeName": "Тр31"
+      },
+      {
+        "gtfs": 1628,
+        "routeName": "Тр25"
+      }
+    ]
+  },
+  {
+    "_id": 3,
+    "stopName": "Угорська (796)",
+    "number": 44252,
+    "phoneNumber": "+380674327683",
+    "routes": [
+      {
+        "routeName": "Т08",
+        "gtfs": 903
+      },
+      {
+        "routeName": "Т04",
+        "gtfs": 902
+      }
+    ]
+  },
+  {
+    "_id": 4,
+    "stopName": "ПЛ. СОБОРНА",
+    "number": 44221,
+    "phoneNumber": "+380673246628",
+    "route": []
+  },
+  {
+    "_id": 5,
+    "stopName": "пл. Митна (240)",
+    "number": 4910,
+    "phoneNumber": "+380503287851",
+    "route": []
+  },
+  {
+    "_id": 6,
+    "stopName": "Саксаганського (36)",
+    "number": 4982,
+    "phoneNumber": "+380673249376",
+    "route": []
+  }
+]

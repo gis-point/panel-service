@@ -1,0 +1,68 @@
+{
+  "predictions": [
+    {
+      "routeShortName": "Т07",
+      "routeName": "Т07 - Церква Анни - Погулянка",
+      "routeId": "950",
+      "stopId": "4997",
+      "stopName": "Підвальна (59)",
+      "stopCode": 59,
+      "dest": [
+        {
+          "dir": "0",
+          "headsign": "Погулянка (197)",
+          "pred": [
+          ]
+        }
+      ]
+    },
+    {
+      "routeShortName": "Т09",
+      "routeName": "Т09 - Залізничний вокзал - вул. Торф'яна",
+      "routeId": "1631",
+      "stopId": "4997",
+      "stopName": "Підвальна (59)",
+      "stopCode": 59,
+      "dest": [
+        {
+          "dir": "1",
+          "headsign": "Залізничний вокзал (118)",
+          "pred": [
+          ]
+        }
+      ]
+    },
+    {
+      "routeShortName": "А29",
+      "routeName": "А29 - Залізничний вокзал - Винники Івасюка",
+      "routeId": "1014",
+      "stopId": "4997",
+      "stopName": "Підвальна (59)",
+      "stopCode": 59,
+      "dest": [
+        {
+          "dir": "0",
+          "headsign": "Винники. Винниченка (1023)",
+          "pred": [
+          ]
+        }
+      ]
+    },
+    {
+      "routeShortName": "А37",
+      "routeName": "А37 - вул. Під Голоском - вул. Хоткевича",
+      "routeId": "126",
+      "stopId": "4997",
+      "stopName": "Підвальна (59)",
+      "stopCode": 59,
+      "dest": [
+        {
+          "dir": "0",
+          "headsign": "Хоткевича (310)",
+          "pred": [
+          ]
+        }
+      ]
+    }
+  ]
+}
